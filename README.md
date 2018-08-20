@@ -1,8 +1,8 @@
-## Group_JavaScript_Project
+# Group_JavaScript_Project
 
-# JavaScript Project Specs
+## JavaScript Project Specs
 
-# Educational App
+## Educational App
 
 The BBC are looking to improve their online offering of educational content by developing some interactive apps that display information in a fun and interesting way. 
 
