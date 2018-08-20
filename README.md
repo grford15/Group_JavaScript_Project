@@ -1,4 +1,4 @@
-# Group_JavaScript_Project
+# Group JavaScript Project
 
 ## JavaScript Project Specs
 
